@@ -17,7 +17,9 @@
 <br>
 
 <p align="center">
-    <img alt="Move.it" title="Move.it" src=".github/moveit.svg" />
+    <img alt="Move.it" title="Move.it" src="./public/moveit.png" width="460px"/>
+    <img alt="Move.it" title="Move.it" src="./public/moveit-dark.png" width="440px"/>
+    <img alt="Move.it" title="Move.it" src="./public/moveit-passlevel.png" width="410px"/>
 </p>
 
 ## 🚀 Tecnologias
@@ -35,6 +37,23 @@ O Move.it é uma aplicação gamificada de gerenciamento de tempo desenvolvida d
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+
+## 🔥 Iniciando o Projeto 
+
+clone p projeto e vá para o folder 
+
+`$ git clone https://github.com/jvmineiro/moveit.git`
+
+Intale as dependencias com o comando:
+
+`$npm i ou yarn`
+
+And start the project with
+
+`$ npm start ou yarn dev`
+
+E agora você acessa a página `localhost:3000` do seu browser.
+
 
 ---
 
